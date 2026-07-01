@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋, I'm Likhith H L
 
-<!--
-**likhith-h-l/likhith-h-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ About Me
 
-Here are some ideas to get you started:
+- 🎓 Cybersecurity Student
+- 🔐 Aspiring AI-SOC & Cloud Security Engineer
+- 💻 Currently learning AI-SOC, Cloud Security, Python, Linux & SQL
+- 🚀 Building cybersecurity projects and documenting my learning journey
+- 🌱 Interested in Security Automation, Threat Detection, Incident Response, and Cloud Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- AI-SOC
+- AI-Cloud Security
+- Python for Cybersecurity
+- Linux
+- SQL
+- AWS Security
+- LetsDefend Labs
+- Cybersecurity Projects
+
+---
+
+## 📂 Current Projects
+
+- Smart Secure Attendance System
+- Basic Antivirus Simulation
+- Advanced Packet Sniffer with ARP Spoofing Detection
+- AI-SOC Learning
+- Cloud Security Labs (Coming Soon)
+
+---
+
+## 🎯 Goal
+
+To become an AI-Integrated Cloud Security Engineer and contribute to building secure cloud environments and modern security operations.
+
+---
+
+⭐ Thanks for visiting my profile!
