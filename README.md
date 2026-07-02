@@ -4,7 +4,7 @@
 
 - 🎓 Cybersecurity Student
 - 🔐 Aspiring AI-SOC & Cloud Security Engineer
-- 💻 Currently learning AI-SOC, Cloud Security, Python, Linux & SQL
+- 💻 Currently learning AI-SOC, AI-Cloud Security, Python, Linux & SQL
 - 🚀 Building cybersecurity projects and documenting my learning journey
 - 🌱 Interested in Security Automation, Threat Detection, Incident Response, and Cloud Security
 
@@ -29,7 +29,6 @@
 - Basic Antivirus Simulation
 - Advanced Packet Sniffer with ARP Spoofing Detection
 - AI-SOC Learning
-- Cloud Security Labs (Coming Soon)
 
 ---
 
