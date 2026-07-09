@@ -66,9 +66,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhith-h-l&show_icons=true&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=likhith-h-l&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -84,13 +82,9 @@
 ---
 
 # 📈 Most Used Languages
-
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-h-l&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-h-l&layout=compact&theme=tokyonight"/>
 </p>
-
 ---
 
 # 🛡️ Featured Projects
