@@ -4,7 +4,7 @@
 
 ---
 
-# 🧑 About Me
+# 💫 About Me
 
 - 🎓 Computer Science Student specializing in IoT, Cybersecurity & Blockchain Technology
 - 🛡️ Passionate about AI-SOC, Network Security, and Blue Team Operations
@@ -63,20 +63,14 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhith-h-l&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
 # 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=likhith-h-l&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=likhith-h-l&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 # 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-h-l&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=likhith-h-l&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 # 🛡️ Featured Projects
