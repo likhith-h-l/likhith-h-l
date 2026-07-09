@@ -65,11 +65,7 @@
 
 # 🔥 Contribution Streak
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=likhith-h-l"
-    width="700"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=likhith-h-l&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 # 📈 Most Used Languages
