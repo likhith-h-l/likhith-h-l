@@ -65,12 +65,20 @@
 
 # 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=likhith-h-l&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=likhith-h-l"
+    width="700"
+    alt="GitHub Streak"
+  />
 </p>
 
 # 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=likhith-h-l&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=likhith-h-l&layout=compact&theme=tokyonight&hide_border=true"
+    width="450"
+    alt="Top Languages"
+  />
 </p>
 
 # 🛡️ Featured Projects
