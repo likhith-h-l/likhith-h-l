@@ -50,7 +50,6 @@
 <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge"/>
 </p>
 
 ### 🛠️ Tools
