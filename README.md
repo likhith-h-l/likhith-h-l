@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/IPv4-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IPv6-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DNS-green?style=for-the-badge"/>
-<img src="http://img.shields.io/badge/HTTP-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTTP-orange?style=for-the-badge"/>
 </p>
 
 ### 🛡️ Cybersecurity
@@ -100,7 +100,7 @@ A Python-based Network Security Monitoring Platform featuring:
 - ARP Spoofing Detection
 - Live SOC Dashboard
 - Threat Monitoring
-- CSV Report Generation
+- CSV
 
 🔗 https://github.com/likhith-h-l/Advanced-Packet-Sniffer-ARP-Detector
 
