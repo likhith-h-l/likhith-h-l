@@ -100,7 +100,7 @@ A Python-based Network Security Monitoring Platform featuring:
 - ARP Spoofing Detection
 - Live SOC Dashboard
 - Threat Monitoring
-- CSV
+- CSV  Report Generation
 
 🔗 https://github.com/likhith-h-l/Advanced-Packet-Sniffer-ARP-Detector
 
