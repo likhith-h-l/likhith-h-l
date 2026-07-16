@@ -62,10 +62,6 @@
 
 ---
 
-# 🔥 Contribution Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=likhith-h-l&theme=tokyonight"/>
-</p>
 
 # 📈 Most Used Languages
 <p align="center">
