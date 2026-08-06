@@ -108,6 +108,3 @@ A Python-based Network Security Monitoring Platform featuring:
 
 likhith1022@gmail.com
 
-🐙 **GitHub**
-
-https://github.com/likhith-h-l
