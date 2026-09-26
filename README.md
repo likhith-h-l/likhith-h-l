@@ -47,9 +47,7 @@
 <p>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=green"/>
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
 </p>
 
 ### 🛠️ Tools
