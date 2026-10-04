@@ -65,9 +65,7 @@
 <p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=likhith-h-l&layout=compact&theme=tokyonight&hide_border=true"
-    width="450"
-    alt="Top Languages"
-  />
+    width="450" alt="Top Languages"/>
 </p>
 
 # 🛡️ Featured Projects
